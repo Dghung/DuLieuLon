@@ -1,0 +1,7 @@
+pyspark
+streamlit
+pandas
+numpy
+findspark
+scikit-learn
+matplotlib
