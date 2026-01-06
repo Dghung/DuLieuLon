@@ -2,9 +2,11 @@
 link data: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 tải 2 file dữ liệu(Fake.csv, Real.csv)
 
-## Mở terminal chạy "pip install -r requirements.txt"
+## Mở terminal
 
-Đảm bảo Hadoop/HDFS đang chạy:
+chạy "pip install -r requirements.txt"
+
+## Đảm bảo Hadoop/HDFS đang chạy:
 
 start-dfs.sh
 
