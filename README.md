@@ -4,7 +4,7 @@ tải 2 file dữ liệu(Fake.csv, Real.csv)
 
 ## Mở terminal chạy "pip install -r requirements.txt"
 
-Đảm bảo Hadoop/HDFS đang chạy (nếu dùng HDFS):
+Đảm bảo Hadoop/HDFS đang chạy:
 
 start-dfs.sh
 
