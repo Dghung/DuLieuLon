@@ -1,6 +1,6 @@
 # DuLieuLon
 link data: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
-tải 2 file dữ liệu(Fake.csv, Real.csv)
+tải 2 file dữ liệu(Fake.csv, True.csv)
 
 ## Mở terminal
 
