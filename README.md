@@ -7,7 +7,9 @@ tải 2 file dữ liệu(Fake.csv, Real.csv)
 Đảm bảo Hadoop/HDFS đang chạy (nếu dùng HDFS):
 
 start-dfs.sh
+
 start-yarn.sh
+
 jps  
 
 ## Mở file Test1.inbpy
